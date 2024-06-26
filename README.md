@@ -1,0 +1,2 @@
+# 10x10x10-LED-Cube
+This is a 10x10x10 LED Cube made with blue diffused LEDs 
