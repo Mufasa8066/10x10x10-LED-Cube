@@ -14,10 +14,12 @@ LED Cubes consists of the following main components:
 
 In this project, we will be creating a 10x10x10 LED Cube, consisting of 1000 LEDs.
 
-# Components
+# Material & Components
 For this projects, a wide range of componenets will be needed. I've included a list of the items below:
 - 1000x LEDs (always a good idea to have a few extra😉)
 - 100x Resistors
 - 1x microcontroller (specifics will be discussed in a bit)
 - 10x HEF4894B-Q100 (12-bit shift registers)
 - 5V Power Supply
+- 0.5mm silver wire
+- 
